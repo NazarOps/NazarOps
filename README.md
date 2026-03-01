@@ -3,15 +3,15 @@
 # About me
 Up and coming Full stack developer with expertise in the .NET ecosystem. I'm currently learning Frontend, specifically Javascript, React and I'm looking forward to start working on real world cases that solve problems.
 
-## My Teck Stack
+# My Teck Stack
 
-# Frontend
+## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,js,tailwind)](https://skillicons.dev)
 
-# Backend
+## Backend
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,mysql)](https://skillicons.dev)
 
-# Tools I use
+## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell,netlify)](https://skillicons.dev)
 
 ## Social Media
