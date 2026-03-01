@@ -6,10 +6,10 @@ Up and coming Full stack developer with expertise in the .NET ecosystem. I'm cur
 ## My Teck Stack
 
 # Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,React,Javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,Javascript,tailwind)](https://skillicons.dev)
 
 # Backend
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,mysql)](https://skillicons.dev)
 
 # Tools I use
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell)](https://skillicons.dev)
