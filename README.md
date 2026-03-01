@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# About me
+Up and coming Full stack developer with expertise in the .NET ecosystem. I'm currently learning Frontend, specifically Javascript, React and I'm looking forward to start working on real world cases that solve problems.
+
+# My Teck Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,Blazor,React,Javascript,SQL)](https://skillicons.dev)
 <!--
 **NazarOps/NazarOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
