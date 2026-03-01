@@ -12,7 +12,7 @@ Up and coming Full stack developer with expertise in the .NET ecosystem. I'm cur
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,mysql)](https://skillicons.dev)
 
 # Tools I use
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell,react)](https://skillicons.dev)
 
 ## Social Media
 # You can reach me on Linkedin
