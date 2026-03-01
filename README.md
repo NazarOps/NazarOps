@@ -12,10 +12,10 @@ Up and coming Full stack developer with expertise in the .NET ecosystem. I'm cur
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,mysql)](https://skillicons.dev)
 
 # Tools I use
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell,react)](https://skillicons.dev)
 
 ## Social Media
-# You can reach out to me on Linkedin [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nazarkokovkin/)
+You can find me on[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nazarkokovkin/)
 <!--
 **NazarOps/NazarOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
