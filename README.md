@@ -9,7 +9,7 @@ Up and coming Full stack developer with expertise in the .NET ecosystem. I'm cur
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,js,tailwind)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,mysql)](https://skillicons.dev)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 ## Tools I use
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell,netlify)](https://skillicons.dev)
