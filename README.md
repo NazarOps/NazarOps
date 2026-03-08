@@ -21,8 +21,7 @@ Up and coming Full stack developer with expertise in the .NET ecosystem. I'm cur
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,github,git,powershell,netlify)](https://skillicons.dev)
 
 ## Social Media
-You can find me on [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nazarkokovkin/)
-<!--
+You can find me on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nazarkokovkin/)
 **NazarOps/NazarOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
