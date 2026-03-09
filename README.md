@@ -29,9 +29,9 @@ I build applications from **database → secure APIs → modern frontend → clo
 # 👾 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -40,4 +40,4 @@ I build applications from **database → secure APIs → modern frontend → clo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NazarOps\&show_icons=true\&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarOps\&layout=compact\&theme=transparent)
