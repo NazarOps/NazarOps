@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Nazar%20Ops&fontSize=45&fontColor=ffffff" />
+</p>
+
 # Hi 👋 I'm Nazar
 
 💻 Junior Fullstack developer student specializing in **C# / .NET and React**
