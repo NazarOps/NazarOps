@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4F46E5,100:9333EA&height=220&section=header&text=Nazar%20Kokovkin&fontSize=42&fontColor=FFFFFF&desc=Fullstack%20.NET%20Developer&descSize=20&descAlignY=68&descColor=06B6D4&animation=fadeIn" />
-</p>
+  <img src="github.png"/></p>
 
 # Hi 👋 I'm Nazar
 
