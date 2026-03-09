@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Nazar%20Kokovkin&fontSize=45&fontColor=FFFFFF&desc=Fullstack%20.NET%20Developer&descSize=20&descAlignY=70" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Nazar%20Kokovkin&font=FiraCode&fontSize=45&fontColor=FFFFFF" />
+</p>
 
 # Hi 👋 I'm Nazar
 
