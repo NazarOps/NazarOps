@@ -1,111 +1,65 @@
 # Hi 👋 I'm Nazar Kokovkin
 
-💻 Fullstack developer specializing in **.NET and React**  
-🚀 Passionate about building **production-ready applications end-to-end**  
-🔒 Focused on **clean architecture, secure APIs, and modern frontend development**
+💻 Fullstack developer specializing in **C# / .NET and React**
 
-I enjoy designing scalable backend systems in **C# / .NET**, building modern interfaces with **React**, and connecting everything through **secure APIs and cloud deployment**.
+I build fullstack applications from **database → secure APIs → modern frontend UIs → cloud deployment**.
 
 ---
 
-# 🧠 Tech Stack
+# 🚀 Tech Stack
 
-## Backend (.NET)
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-
-- ASP.NET Core
-- Minimal APIs
-- MVC & Razor Pages
-- Clean Architecture
-- CQRS with MediatR
-- DTO patterns & Repository pattern
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Minimal API](https://img.shields.io/badge/Minimal_APIs-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ---
 
-## Frontend
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-- React
-- Modern component architecture
-- API consumption
-- State management
-- Form validation
-- Responsive UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ---
 
-## Databases
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-- SQL
-- Entity Framework Core
-- LINQ
-- Database migrations
-- Relational modelling
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ---
 
-## Security & Authentication
+### Authentication & Security
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
-
-- ASP.NET Identity
-- JWT authentication
-- Claims based authorization
-- Role Based Access Control (RBAC)
-- Secure token handling
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ---
 
-## DevOps & Cloud
+### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,azure,vercel,netlify" />
-</p>
-
-- Git & GitHub workflows
-- Pull requests & code reviews
-- GitHub Actions CI/CD
-- Azure App Service
-- Cloud deployment pipelines
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-# 🏗 Architecture & Practices
+# 📈 GitHub Activity
 
-- Clean Code principles
-- Layered Architecture
-- SOLID principles
-- Testable systems
-- RESTful API design
-- Validation with FluentValidation
-- Unit & integration testing
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME\&theme=github-compact\&hide_border=true)](https://github.com/YOURUSERNAME)
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Stats
 
-- **APIs & API Design**
-- **Design Patterns**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=transparent)
 
----
-
-# 📫 Connect With Me
-
-- GitHub: https://github.com/NazarOps
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/nazarkokovkin/
-
----
-
-⭐ Always interested in building **clean, scalable fullstack systems**. Hit me up if you want to **collaborate**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=transparent)
