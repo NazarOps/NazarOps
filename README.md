@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nazar
 
-💻 Fullstack developer specializing in **C# / .NET and React**
+💻 Junior Fullstack developer student specializing in **C# / .NET and React**
 
 I build applications from **database → secure APIs → modern frontend → cloud deployment**.
 
