@@ -34,13 +34,3 @@ I build applications from **database → secure APIs → modern frontend → clo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
 </picture>
 
----
-## 📊 GitHub Stats
-
-## 👾 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
-</picture>
