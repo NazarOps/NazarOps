@@ -37,7 +37,10 @@ I build applications from **database → secure APIs → modern frontend → clo
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://stats.dooboo.io/api?username=NazarOps" />
-  <img height="165" src="https://stats.dooboo.io/api/top-langs/?username=NazarOps&layout=compact" />
-</p>
+## 👾 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NazarOps/NazarOps/output/pacman-contribution-graph.svg">
+</picture>
