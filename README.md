@@ -38,6 +38,6 @@ I build applications from **database → secure APIs → modern frontend → clo
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NazarOps\&show_icons=true\&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=transparent)
