@@ -26,9 +26,13 @@ I build applications from **database → secure APIs → modern frontend → clo
 
 ---
 
-# 📈 GitHub Activity
+# 👾 Contributions
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME\&theme=github-compact\&hide_border=true)](https://github.com/YOURUSERNAME)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
