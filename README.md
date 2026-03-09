@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:#0223fa&height=200&section=header&text=Nazar%20Kokovkin&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0223fa&height=200&section=header&text=Nazar%20Kokovkin&fontSize=45&fontColor=ffffff" />
 </p>
 
 # Hi 👋 I'm Nazar
