@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/github.png?v=2" width="100%"/></p>
 
-# Hi 👋 I'm Nazar
+<p align="center"><b>Hi 👋 I'm Nazar</b></p>
 
 💻 Junior Fullstack developer student specializing in **C# / .NET and React**
 
