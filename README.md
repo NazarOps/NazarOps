@@ -11,7 +11,7 @@
 
 # 🚀 Tech Stack
 
-<p align="center">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
