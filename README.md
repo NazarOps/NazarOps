@@ -3,15 +3,15 @@
 
 <p align="center"><b>Hi 👋 I'm Nazar</b></p>
 
-💻 Junior Fullstack developer student specializing in **C# / .NET and React**
+<p align="center">💻 Junior Fullstack developer student specializing in **C# / .NET and React**</p>
 
-I build applications from **database → secure APIs → modern frontend → cloud deployment**.
+<p align="center">I build applications from **database → secure APIs → modern frontend → cloud deployment**.</p>
 
 ---
 
 # 🚀 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+<p align="center">![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)</p>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
