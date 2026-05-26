@@ -1,11 +1,11 @@
 <p align="center">
   <img src="assets/github.png?v=2" width="100%"/></p>
 
-<b>Hi 👋 I'm Nazar</b>
+<p align="center"><b>Hi 👋 I'm Nazar</b></p>
 
-💻 Junior Fullstack developer student specializing in **C# / .NET and React**
-Focused on building clean, responsive, and user-friendly web applications.
-I build applications from **database → secure APIs → modern frontend → cloud deployment**.
+<p align="center">💻 Junior Fullstack developer student specializing in <b>**C# / .NET and React**</b></p>
+<p align="center">Focused on building <b>clean, responsive</b>, and <b>user-friendly web applications.</b></p>
+<p align="center">I build applications from <b>**database → secure APIs → modern frontend → cloud deployment**</b>.</p>
 
 ---
 
