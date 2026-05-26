@@ -48,6 +48,7 @@ Wiki-style web application for creating and exploring cat breeds and facts.
 
 **Stack**: .NET • Javascript • SQL
 
+---
 
 # 👾 Contributions
 
