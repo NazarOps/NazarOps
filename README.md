@@ -37,7 +37,7 @@
 ### 🐱 [CatFinder](https://github.com/NazarOps/CatFinder-FE) 
 Fullstack web application designed to help reunite lost cats with their owners.
 
-**Planned Features:** Deploy to VPS (Digital Ocean) and add 2FA authentication.
+**Planned Features:** Add 2FA authentication.
 
 **Stack**: .NET • React • SQL
 
