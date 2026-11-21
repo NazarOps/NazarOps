@@ -39,6 +39,14 @@
 ---
 
 # ⚡ Featured Projects
+### ⚙️ [Factorio Blueprint Designer](https://github.com/NazarOps/FactorioBlueprintDesignerBE)
+An interactive web and native mobile application that lets Factorio players import, export and edit
+their in-game blueprints. 
+
+**Planned Features:** Interactive blueprint editor, blueprint import/export, offline-first storage, automatic saving, user accounts and cloud synchronization.
+
+Stack: .NET • React • TypeScript • PixiJS • PostgreSQL • IndexedDB • React Native
+
 ### 🐱 [CatFinder](https://github.com/NazarOps/CatFinder-FE) 
 Fullstack web application designed to help reunite lost cats with their owners.
 
